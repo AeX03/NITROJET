@@ -41,7 +41,7 @@ sudo python main.py</pre></div>
     1. In your server create a channel "TEXT".<br/><br/>
      2. Click on Edit Room => Integration => Webhook.<br/><br/>
       3. New webhook => change logo to <a href="https://github.com/AeX03/NITROJET/blob/main/assets/images/NJETwebhook.png">NJETwebhook</a> and name to NitroJet more than copying the webhook for the tool.<br/><br/>
-       4. Enjoy<br/><br/>
+       4. Enjoy.<br/><br/>
    </td>
   </tr>
  </tbody>
