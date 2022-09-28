@@ -33,7 +33,8 @@ sudo pip install -r requirements.txt</pre></div>
 sudo python main.py</pre></div>
    </td>
    <td>
-    1. Download & Install <a href="https://github.com/AeX03/NITROJET/releases/tag/NitroJet">Python (in the file)</a> and <a href="https://github.com/AeX03/NITROJET/releases">NitroJet</a>.<br/><br/>
+    1. Download & Install <a href="https://github.com/AeX03/NITROJET/releases/tag/NitroJet">Python (in the file)</a> and <a href="https://github.com/AeX03/NITROJET/releases">NitroJet</a>
+    don't forget to activate the "add python 3.10.7 to PATCH".<br/><br/>
      2. Double click on NitroJet.<br/><br/>
       3. Enjoy.<br/><br/>
    </td>
