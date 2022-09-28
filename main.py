@@ -87,12 +87,6 @@ class NitroJet:
                 print(
                     f'\33]0;NitroJet - {len(valid)} Valid | {retry} Retry\a', end='', flush=True)
 
-        print(f"""
-\033[0mResults:
- \033[93mValid: {len(valid)}
- \033[91mRetry: {retry}
- \033[0mValid Codes: {', '.join(valid)}""")
-
     def slowType(self, text: str, speed: float, newLine=True):
         for Xial in text:
             print(Xial, end="", flush=True)
