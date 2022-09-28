@@ -1,0 +1,7 @@
+colored
+discord_webhook
+numpy
+os
+requests
+time
+colorama
