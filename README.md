@@ -13,6 +13,40 @@
 <br>
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.NITROJET&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
 
+<table width="100%" style="width:100%; display:table;">
+ <thead>
+  <tr>
+   <th width="30%" style="width:30%;">Linux and MacOS</th>
+   <th width="30%" style="width:30%;">Windows</th>
+   <th width="30%" style="width:30%;">Discord Configue</th>
+  </tr>
+ </thead>
+ <tbody style="vertical-align: bottom;">
+  <tr>
+   <td>
+<div class="highlight highlight-source-shell"><pre># Get the NitroJet
+git clone https://github.com/AeX03/NITROJET
+cd NITROJET</pre></div>
+<div class="highlight highlight-source-shell"><pre># Install the requirements
+sudo pip install -r requirements.txt</pre></div>
+<div class="highlight highlight-source-shell"><pre># Start the NitroJet
+sudo python main.py</pre></div>
+   </td>
+   <td>
+    1. Download <a href="https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe">Python for Windows</a> and <a href="https://github.com/AeX03/NITROJET/releases">NitroJet</a>.<br/><br/>
+     2. Double click on NitroJet.<br/><br/>
+      3. Enjoy.<br/><br/>
+   </td>
+   <td>
+    1. In your server create a channel "TEXT".<br/><br/>
+     2. Click on Edit Room => Integration => Webhook.<br/><br/>
+      3. New webhook => change logo to <a href="https://github.com/AeX03/NITROJET/blob/main/assets/images/NJETwebhook.png">NJETwebhook</a> and name to NitroJet more than copying the webhook for the tool.<br/><br/>
+       4. Enjoy<br/><br/>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/NITROJET](https://reporoster.com/stars/dark/AeX03/NITROJETNITROJET)](https://github.com/AeX03/NITROJET/stargazers)
