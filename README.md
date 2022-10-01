@@ -13,6 +13,8 @@
 <br>
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.NITROJET&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
 
+<img src="https://github.com/AeX03/NITROJET/blob/main/assets/images/gif-line.gif" width="9000px">
+
 <table width="100%" style="width:100%; display:table;">
  <thead>
   <tr>
@@ -48,6 +50,8 @@ sudo python main.py</pre></div>
  </tbody>
 </table>
 
+<img src="https://github.com/AeX03/NITROJET/blob/main/assets/images/gif-line.gif" width="9000px">
+
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/NITROJET](https://reporoster.com/stars/dark/AeX03/NITROJETNITROJET)](https://github.com/AeX03/NITROJET/stargazers)
@@ -55,3 +59,5 @@ sudo python main.py</pre></div>
 
 ## License
 AeX03 is made with 🖤 [Contributors](https://github.com/AeX03/NITROJET/graphs/contributors). See the **License** file for more details.
+
+<img src="https://github.com/AeX03/NITROJET/blob/main/assets/images/thank-u-txt.png">
